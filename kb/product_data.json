@@ -1,0 +1,39 @@
+{
+    "products": {
+        "FocusFlow": {
+            "features": {
+                "AI-assisted task prioritization": {
+                    "description": "Uses machine learning to prioritize tasks based on deadlines, importance, and user patterns",
+                    "effectiveness": 0.85
+                },
+                "calendar integration": {
+                    "description": "Seamlessly syncs with Google Calendar, Outlook, and Apple Calendar",
+                    "effectiveness": 0.92
+                },
+                "offline mode": {
+                    "description": "Full functionality without internet connection, syncs when back online",
+                    "effectiveness": 0.78
+                }
+            },
+            "metrics": {
+                "avg_trial_conversion": 0.35,
+                "avg_user_retention": 0.82,
+                "customer_satisfaction": 4.6
+            },
+            "target_segments": {
+                "young professionals": {
+                    "conversion_rate": 0.42,
+                    "cac": 25.50
+                },
+                "remote workers": {
+                    "conversion_rate": 0.38,
+                    "cac": 28.75
+                },
+                "startup teams": {
+                    "conversion_rate": 0.45,
+                    "cac": 35.20
+                }
+            }
+        }
+    }
+}

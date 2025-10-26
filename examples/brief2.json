@@ -1,0 +1,19 @@
+{
+    "campaign_id": "cmp_2025_09_02",
+    "goal": "drive app installations with focus on user retention",
+    "product": {
+        "name": "FocusFlow",
+        "category": "productivity app",
+        "key_features": [
+            "AI-assisted task prioritization",
+            "calendar integration",
+            "offline mode",
+            "team collaboration features"
+        ],
+        "price": "free trial (14d) then $9.99/mo"
+    },
+    "budget": 7500,
+    "channels": ["social", "display"],
+    "audience_hints": ["startup teams", "small business owners"],
+    "tone": "professional and solution-focused"
+}
